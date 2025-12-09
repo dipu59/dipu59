@@ -24,9 +24,6 @@
 </p>
 
 
-<div align="center">
-  <img src="https://count.getloli.com/@:maurodesouzam?theme=booru-nandroid&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
 
 
@@ -96,7 +93,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://x.com/dipu00059" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -110,7 +107,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouzam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouzam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+</div> -->
 
 ###
 
